@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="MordernStrike">
+        <Key name="Lose_PvE">
+            <Value int="0"/>
+        </Key>
+        <Key name="Lose_1v1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Lose_3v3">
+            <Value int="1"/>
+        </Key>
+        <Key name="Win_PvE">
+            <Value int="0"/>
+        </Key>
+        <Key name="Win_3v3">
+            <Value int="0"/>
+        </Key>
+        <Key name="DP">
+            <Value int="0"/>
+        </Key>
+        <Key name="Version">
+            <Value fixed="0.04"/>
+        </Key>
+        <Key name="Win_1v1">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="5F5AB0A7644A257232421FCAD21FAE4927F6C08F"/>
+</Bank>
